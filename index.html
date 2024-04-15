@@ -9,7 +9,7 @@
 <body>
     <nav class="menu">
         <a href="#homepage">Home</a>
-        <a href="#aboutme-title">About</a>
+        <a href="#aboutme-section">About</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
         <a href="#contact-me">Contact Me</a>
@@ -18,7 +18,7 @@
         <h1 id="main-title">Venkata Sanjeeva Kuntumalla</h1>
         <p id="role-title">Web Developer | Python Developer</p>
     </section>
-    <section>
+    <section id="aboutme-section">
         <h2 id="aboutme-title" >About Me</h2>
         <div id="aboutme-body">
           <p>
@@ -33,8 +33,7 @@
           <p>
             Also, I've an Internship Experience with <b>InnovixionTech</b>. They were given some tasks to perform. Those are <b>Count Down Timer</b> and <b>ToDo List</b> tasks.
           </p>
-        </div>
-        
+      </div>
     </section>
     <section class="skill-section" id="skills">
         <p>Skills</p>
@@ -150,8 +149,17 @@
           By clicking below <b>Icons.</b> 
         </p>
         <div class="logos">
-
-        <a href="kuntumallavenkatasanjeeva2005@gmail.com" target="_blank">
+          <p id="email-tooltip">kuntumallavenkatasanjeeva2005@gmail.com</p>
+        <a onclick="
+          if (phoneElem.style.display !== 'none') {
+            phoneElem.style.display = 'none';
+            emailElem.style.display = 'inline-block';
+          } else if (emailElem.style.display === 'none') {
+            emailElem.style.display = 'inline-block';
+          } else {
+            emailElem.style.display = 'none';
+          }
+        ">
             <img src="email.png" alt="Email">
         </a>
 
@@ -162,8 +170,17 @@
         <a href="https://www.linkedin.com/in/venkata-sanjeeva-kuntumalla-ab5894257/" target="_blank">
             <img src="linkedin-logo.png" alt="LinkedIn">
         </a>
-
-        <a href="+91 8186863951" target="_blank">
+        <p id="phone-tooltip">+91 8186863951</p>
+        <a onclick="
+          if (emailElem.style.display !== 'none') {
+            emailElem.style.display = 'none';
+            phoneElem.style.display = 'inline-block';
+          } else if (phoneElem.style.display === 'none') {
+            phoneElem.style.display = 'inline-block';
+          } else {
+            phoneElem.style.display = 'none';
+          }
+      ">
           <img src="phone-call.png" alt="Phone">
       </a>
         </div>
@@ -176,4 +193,10 @@
         </p>
     </footer>
 </body>
+<script>
+  const emailElem = document.getElementById('email-tooltip');
+  const phoneElem = document.getElementById('phone-tooltip');
+  emailElem.style.display = 'none';
+  phoneElem.style.display = 'none';
+</script>
 </html>
