@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.6fd4d03e.css",
+    "main.js": "/My-Portfolio/static/js/main.97a0b394.js",
+    "static/js/453.49e79e97.chunk.js": "/My-Portfolio/static/js/453.49e79e97.chunk.js",
+    "static/media/Portfolio-img.png": "/My-Portfolio/static/media/Portfolio-img.65dd7ae90facf47b48b9.png",
+    "static/media/CountDownTimer.png": "/My-Portfolio/static/media/CountDownTimer.b103833f7830d1ee5ceb.png",
+    "static/media/Weather-Report.png": "/My-Portfolio/static/media/Weather-Report.2991258035c1c3b43364.png",
+    "static/media/My-Profile.jpg": "/My-Portfolio/static/media/My-Profile.84c846a976c81cecbcdd.jpg",
+    "static/media/TodoList-Innovixian.png": "/My-Portfolio/static/media/TodoList-Innovixian.6cdbf18dad0a45fc24a9.png",
+    "static/media/RockpaperscissorGame.png": "/My-Portfolio/static/media/RockpaperscissorGame.cf8af48a39e6c9533a19.png",
+    "static/media/Calculator.png": "/My-Portfolio/static/media/Calculator.14134868befec6e9f2fc.png",
+    "static/media/TodoList-OctaNet.png": "/My-Portfolio/static/media/TodoList-OctaNet.17cb1044daedfbe59c98.png",
+    "static/media/python.png": "/My-Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/letter-c.png": "/My-Portfolio/static/media/letter-c.ca323b325816f40cf155.png",
+    "static/media/github.png": "/My-Portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/Temp-conv.png": "/My-Portfolio/static/media/Temp-conv.4d29ae51e4a438545d3a.png",
+    "static/media/ProfilePic-Desktop.svg": "/My-Portfolio/static/media/ProfilePic-Desktop.56d4dcdde5e0976903c8.svg",
+    "static/media/html-5.png": "/My-Portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/My-Portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/My-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/ProfilePic-Mobile.svg": "/My-Portfolio/static/media/ProfilePic-Mobile.1d21a3cdd76970bbdfd6.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.6fd4d03e.css.map": "/My-Portfolio/static/css/main.6fd4d03e.css.map",
+    "main.97a0b394.js.map": "/My-Portfolio/static/js/main.97a0b394.js.map",
+    "453.49e79e97.chunk.js.map": "/My-Portfolio/static/js/453.49e79e97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd4d03e.css",
+    "static/js/main.97a0b394.js"
+  ]
+}
