@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.6fd4d03e.css",
-    "main.js": "/My-Portfolio/static/js/main.97a0b394.js",
+    "main.js": "/My-Portfolio/static/js/main.1989fa7d.js",
     "static/js/453.49e79e97.chunk.js": "/My-Portfolio/static/js/453.49e79e97.chunk.js",
+    "static/media/nature-calls-landingPage.png": "/My-Portfolio/static/media/nature-calls-landingPage.0f32e908ec6480425fbf.png",
     "static/media/Portfolio-img.png": "/My-Portfolio/static/media/Portfolio-img.65dd7ae90facf47b48b9.png",
     "static/media/CountDownTimer.png": "/My-Portfolio/static/media/CountDownTimer.b103833f7830d1ee5ceb.png",
+    "static/media/tribute-page.png": "/My-Portfolio/static/media/tribute-page.3b1cd89c88badbe2b2d7.png",
+    "static/media/amazon-clone.png": "/My-Portfolio/static/media/amazon-clone.c400092312297bdd1dd5.png",
     "static/media/Weather-Report.png": "/My-Portfolio/static/media/Weather-Report.2991258035c1c3b43364.png",
     "static/media/My-Profile.jpg": "/My-Portfolio/static/media/My-Profile.84c846a976c81cecbcdd.jpg",
+    "static/media/tic-tac-toe-game.png": "/My-Portfolio/static/media/tic-tac-toe-game.9f845209b78cc2c0efea.png",
     "static/media/TodoList-Innovixian.png": "/My-Portfolio/static/media/TodoList-Innovixian.6cdbf18dad0a45fc24a9.png",
     "static/media/RockpaperscissorGame.png": "/My-Portfolio/static/media/RockpaperscissorGame.cf8af48a39e6c9533a19.png",
     "static/media/Calculator.png": "/My-Portfolio/static/media/Calculator.14134868befec6e9f2fc.png",
@@ -22,11 +26,11 @@
     "static/media/ProfilePic-Mobile.svg": "/My-Portfolio/static/media/ProfilePic-Mobile.1d21a3cdd76970bbdfd6.svg",
     "index.html": "/My-Portfolio/index.html",
     "main.6fd4d03e.css.map": "/My-Portfolio/static/css/main.6fd4d03e.css.map",
-    "main.97a0b394.js.map": "/My-Portfolio/static/js/main.97a0b394.js.map",
+    "main.1989fa7d.js.map": "/My-Portfolio/static/js/main.1989fa7d.js.map",
     "453.49e79e97.chunk.js.map": "/My-Portfolio/static/js/453.49e79e97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fd4d03e.css",
-    "static/js/main.97a0b394.js"
+    "static/js/main.1989fa7d.js"
   ]
 }
